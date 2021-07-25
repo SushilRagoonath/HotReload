@@ -1,0 +1,1 @@
+gcc -shared -o app.dll source\app.c -O0 gunslinger.dll
